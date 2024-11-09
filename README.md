@@ -6,7 +6,7 @@ The goal is to provide simple, understandable code that covers the essentials of
 ## Getting Started
 
 1. Clone this repository to your local machine:
-   git clone <repository-url>
+   git clone https://github.com/attaullahmk/pythonL.git
 
 ## Contents
 
